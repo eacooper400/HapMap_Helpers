@@ -75,7 +75,7 @@ SNP_distance.pl <input.hmp.txt> <output.txt>
 	output.txt = An output file with a single column of distances
 ```
 
-####### Example
+###### Example
 The command line below will calculate all of the distances between
 adjacent SNPs in the same SAP hapmap file used in the previous
 example.  The output will be saved in the file "dist.txt":
