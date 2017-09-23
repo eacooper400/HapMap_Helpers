@@ -36,8 +36,7 @@ The output file format has 4 columns:
 4.  Number of SNPs
 
 ```bash
-$ ./SNP_density.pl SAP_allChr_v3.noMissing.hmp.txt out.txt
-1000000 100000
+$ ./SNP_density.pl SAP_allChr_v3.noMissing.hmp.txt out.txt 1000000 100000
 ```
 
 ###### Plotting Results
