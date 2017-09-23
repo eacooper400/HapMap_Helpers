@@ -122,7 +122,7 @@ het_hmp.pl <input.hmp> <output.txt>
 	output.txt = A tab-delimited file with 2 columns:
 		Column 1 contains the individual sample names
 		Column 2 has the fraction of heterozygous sites for that individual
-		```
+```
 
 ###### Example
 Below is an example using the same SAP hapmap file as input, and
