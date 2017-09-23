@@ -145,7 +145,7 @@ hmpSubset.pl <input.hmp.txt> <output.hmp.txt> <list.txt>
 	input.hmp.txt = An input file in the TASSEL hapmap format
 	output.hmp.txt = The name of a hapmap format output file to create
 	list.txt = A text file containing a list of individuals to extract, in a single column
-	```
+```
 
 ###### Example
 The below code will extract a list of the 3 individuals in "list.txt"
@@ -172,7 +172,7 @@ missing_hmp.pl <input.hmp> <output.txt>
 	output.txt = A tab-delimited file with 2 columns:
 		Column1: Individual/Sample Name
 		Column2: The fraction of missing sites for that individual
-		```
+```
 
 In the example below, the script will calculate the fraction missing
 for every individual in the SAP hapmap file, and print the output to
